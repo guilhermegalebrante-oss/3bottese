@@ -1,0 +1,15 @@
+{
+  "name": "bot-tabacaria",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": { "node": ">=18.17.0" },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "axios": "^1.7.3",
+    "dotenv": "^16.4.5"
+  }
+}
